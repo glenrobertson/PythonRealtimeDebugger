@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+shift+d"], "command": "python_static_debugger" }
+]
